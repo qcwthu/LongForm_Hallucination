@@ -108,8 +108,8 @@ def handle_decomposed_facts():
     # print(test_data[-1]["fact"])
     # exit -1
 
-    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace_chengwei.csv')
-    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace_chengwei.csv')
+    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace.csv')
+    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace.csv')
     resultsall = pd.concat([results_200, results_except_200], ignore_index=True)
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
@@ -213,8 +213,8 @@ def handle_decomposed_facts_true_false_cot():
     # print(test_data[-1]["fact"])
     # exit -1
 
-    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace_chengwei.csv')
-    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace_chengwei.csv')
+    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace.csv')
+    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace.csv')
     resultsall = pd.concat([results_200, results_except_200], ignore_index=True)
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
@@ -332,8 +332,8 @@ def handle_decomposed_facts_paraphrase():
     # print(test_data[-1]["fact"])
     # exit -1
 
-    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace_chengwei.csv')
-    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace_chengwei.csv')
+    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace.csv')
+    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace.csv')
     resultsall = pd.concat([results_200, results_except_200], ignore_index=True)
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
@@ -558,8 +558,8 @@ def handle_decomposed_facts_different_prompt():
     # print(test_data[-1]["fact"])
     # exit -1
 
-    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace_chengwei.csv')
-    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace_chengwei.csv')
+    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace.csv')
+    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace.csv')
     resultsall = pd.concat([results_200, results_except_200], ignore_index=True)
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
@@ -648,8 +648,8 @@ def handle_decomposed_facts_prompt2llamadata():
     print(len(train_data))
     print(len(valid_data))
 
-    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace_chengwei.csv')
-    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace_chengwei.csv')
+    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace.csv')
+    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace.csv')
     resultsall = pd.concat([results_200, results_except_200], ignore_index=True)
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
@@ -884,8 +884,8 @@ def handle_decomposed_facts_different_prompt_qa_format():
     print(len(train_data))
     print(len(valid_data))
 
-    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace_chengwei.csv')
-    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace_chengwei.csv')
+    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace.csv')
+    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace.csv')
     resultsall = pd.concat([results_200, results_except_200], ignore_index=True)
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
@@ -969,8 +969,8 @@ def handle_decomposed_facts_different_prompt_qa_format_llamadata():
     print(len(train_data))
     print(len(valid_data))
 
-    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace_chengwei.csv')
-    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace_chengwei.csv')
+    results_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_sampled_200_ace.csv')
+    results_except_200 = pd.read_csv('/data/home/Knowledge-Boundary/longfact-ACE-decomposed-facts/longfact_except_200_ace.csv')
     resultsall = pd.concat([results_200, results_except_200], ignore_index=True)
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))

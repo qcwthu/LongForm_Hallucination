@@ -108,7 +108,7 @@ def handle_decomposed_facts():
     # print(test_data[-1]["fact"])
     # exit -1
 
-    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace_chengwei.csv')
+    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace.csv')
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
     print(len(alljudgements))
@@ -212,7 +212,7 @@ def handle_decomposed_facts_true_false_cot():
     # print(test_data[-1]["fact"])
     # exit -1
 
-    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace_chengwei.csv')
+    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace.csv')
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
     print(len(alljudgements))
@@ -329,7 +329,7 @@ def handle_decomposed_facts_paraphrase():
     # print(test_data[-1]["fact"])
     # exit -1
 
-    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace_chengwei.csv')
+    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace.csv')
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
     print(len(alljudgements))
@@ -553,7 +553,7 @@ def handle_decomposed_facts_different_prompt():
     # print(test_data[-1]["fact"])
     # exit -1
 
-    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace_chengwei.csv')
+    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace.csv')
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
     print(len(alljudgements))
@@ -641,7 +641,7 @@ def handle_decomposed_facts_prompt2llamadata():
     print(len(train_data))
     print(len(valid_data))
 
-    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace_chengwei.csv')
+    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace.csv')
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
     print(len(alljudgements))
@@ -875,7 +875,7 @@ def handle_decomposed_facts_different_prompt_qa_format():
     print(len(train_data))
     print(len(valid_data))
 
-    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace_chengwei.csv')
+    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace.csv')
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
     print(len(alljudgements))
@@ -958,7 +958,7 @@ def handle_decomposed_facts_different_prompt_qa_format_llamadata():
     print(len(train_data))
     print(len(valid_data))
 
-    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace_chengwei.csv')
+    resultsall = pd.read_csv('/data/home/Knowledge-Boundary/factscore/ACE-decomposed-facts/factscore_ace.csv')
     print(len(resultsall))
     alljudgements = resultsall["judgments"].apply(lambda x: json.loads(x))
     print(len(alljudgements))
