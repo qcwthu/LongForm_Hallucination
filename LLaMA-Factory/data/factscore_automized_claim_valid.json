@@ -1,0 +1,697 @@
+[
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: The Living End released the album \"Roll On\" in 2000.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Beenie Man's album \"Many More Moods\" included the hit singles \"Sim Simma\" and \"Girls Dem Sugar\".",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Jonathan Tucker is best known for his roles in \"Friday Night Lights,\" \"The Texas Chainsaw Massacre,\" and \"Kingdom.\"",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Roselyn S\u00e1nchez is a Puerto Rican actress, model, and singer.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Darrius Heyward-Bey caught 140 passes for 1,610 yards and 4 touchdowns while playing for the Raiders.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Regina Mart\u00ednez P\u00e9rez was a vocal critic of the Mexican government's handling of the drug trade and organized crime.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Reki Kawahara wrote the light novel series \"Sword Art Online\".",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Quintus Sosius Senecio served as a legate in the Battle of Actium in 31 BC.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Egon Krenz became a member of the Socialist Unity Party of Germany's Central Committee in 1976.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Miguel D\u00edaz earned 31 saves for the Mets in 2017.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Andreas Kisser was born in Belo Horizonte, Brazil.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: There are multiple individuals named Ravi Besant, and one of them is the CEO of one of the companies named Besant Technologies.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Y.S. Jaganmohan Reddy was released from prison in 2015 after the Supreme Court acquitted Y.S. Jaganmohan Reddy of all charges.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Shashank Manohar resigned as President of the Board of Control for Cricket in India in 2017, citing differences with the Indian government.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: The investigation into Regina Mart\u00ednez P\u00e9rez's murder was widely criticized for being slow and ineffective.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Robin and Taika Waititi were of M\u0101ori descent.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: John Lee \"Son\" House was born in Lyon, Mississippi.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Miguel D\u00edaz has a fastball that has consistently been clocked in the mid-to-upper 90s.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Errol Flynn went on to star in a string of hit films that Errol Flynn starred in, including \"The Charge of the Light Brigade\" (1936), \"The Adventures of Robin Hood\" (1938), and \"The Sea Hawk\" (1940).",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Jos\u00e9 S\u00e1nchez del R\u00edo was born on March 20, 1913.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Alonso has earned over 50 caps for the Spain national team.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Samantha Ruth Prabhu is married to actor Naga Chaitanya.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Shayne Neumann is a member of the Australian Labor Party.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Rin Iwanaga is a Japanese manga artist and illustrator.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Tiffany Haddish has received numerous awards and nominations throughout her career as an actress, comedian, and author.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Andreas Kisser wrote many of the heavy metal band Sepultura's most popular songs during his career with the band.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Chadwick Boseman played the role of James Brown in his 2014 film \"Get on Up.\"",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Liam Payne's debut solo album, \"LP1\", featured the singles \"Strip That Down\" and \"All I Want (For Christmas)\".",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Annika S\u00f6renstam won 42 Ladies European Tour events.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Mauro Icardi represented Argentina at the 2015 Copa America.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Darrius Heyward-Bey caught 60 passes for 854 yards and 5 touchdowns while playing for the Steelers.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: The Animal Welfare Board of India, which was founded by Maneka Gandhi in 1984, is a statutory body that works to protect and promote animal welfare in India.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Oliver Letwin graduated with a degree in Philosophy, Politics, and Economics.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Errol Flynn died on October 14, 1959, at the age of 50, from a heart attack while sailing his yacht, the \"Zaca,\" off the coast of California.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Ronaldo Lu\u00eds Naz\u00e1rio de Lima won the FIFA Confederations Cup twice (1997 and 2005) with Brazil.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Takeo Miki continued to serve in the Japanese Diet until his death.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Vincenzo Tusa oversaw excavations and restoration projects in Agrigento, including the Valley of the Temples.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: George Cukor directed \"Love and Pain and the Whole Damn Thing\" (1973).",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Quintus Sosius Senecio received a traditional Roman education.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Lauren London has appeared in the film \"Little.\"",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Andrew Shue gained his breakthrough role in 1992 when Andrew Shue was cast as Billy Campbell on \"Melrose Place.\"",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Frederick Winslow Taylor was the son of a wealthy family.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Vincenzo Tusa worked on the Valley of the Temples in Sicily, Italy, a UNESCO World Heritage Site.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Kerser is from Campbelltown, New South Wales.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Craig Morton served as the Cowboys' starting quarterback for most of Craig Morton's time with the team.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Sian Massey-Ellis has been officiating in the top divisions of English football since 2001.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: James B. Donovan became involved in international law in the 1950s.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Samantha Ruth Prabhu's breakthrough role came in 2015 with the film \"A Aa.\"",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Igor Cavalera is the drummer of Sepultura.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Kim Burrell is an American gospel singer, songwriter, and minister.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Chaim Malinowitz studied in the yeshivas of Poland and later in the United States.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Owen Wright has competed in the Billabong Pipe Masters.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Kalki Koechlin starred in the 2011 film \"Zindagi Na Milegi Dobara.\"",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Roselyn S\u00e1nchez starred in the romantic comedy \"Act of Valor\".",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Sian Massey-Ellis is a British assistant referee in English football.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Dominic King developed a passion for football (soccer) from an early age.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: M\u00f6tley Cr\u00fce's music was a fusion of heavy metal, hard rock, and glam metal.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Gabriela Sabatini defeated Steffi Graf in the semifinals of the 1990 US Open.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Dominic King was born on August 24, 1981.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Chadwick Boseman was a devoted advocate for social justice.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Mar\u00eda Elena Medina-Mora Icaza is the Director of the National Institute of Psychiatry Ram\u00f3n de la Fuente Mu\u00f1iz in Mexico City, Mexico.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Ji Sung played the role of Ta-hwan in the 2013-2014 historical drama \"Empress Ki\".",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Kyu Sakamoto died due to complications from stomach cancer.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Errol Flynn was married three times.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Manoel Francisco dos Santos earned 50 caps for the Brazilian national team.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Mitzi Gaynor's performance in the film adaptation of \"South Pacific\" earned her a Golden Globe nomination.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Ra Jong-yil was born in 1954.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Quintus Sosius Senecio was a strong supporter of Julius Caesar.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Julia Faye starred in the film \"The Unholy Three\" (1930).",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Kalki Koechlin has been involved with charitable organizations that support women's rights and environmental issues.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Ronaldo Lu\u00eds Naz\u00e1rio de Lima was born on September 18, 1976, in Rio de Janeiro, Brazil.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Saul \"Canelo\" \u00c1lvarez is a four-time world champion.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Florencia Bertotti made her screen debut in the 2004 telenovela \"Padre Coraje\".",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: George Cukor was versatile in directing a wide range of genres.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Y.S. Jaganmohan Reddy was sworn in as the Chief Minister of Andhra Pradesh, India on May 30, 2019.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Mar\u00eda Elena Medina-Mora Icaza was born in 1949 in Mexico City.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Maneka Gandhi has been serving as a member of the Rajya Sabha since 2014.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Kyra Sedgwick's performance on the TNT drama series \"The Closer\" earned her numerous award nominations.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Ram Gopal Varma directed \"Antham\" in 1992.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Andrew Shue is the brother of actor Elisabeth Shue, who is known for her roles in films like \"Leaving Las Vegas\" and \"Deconstructing Harry.\"",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: James Taylor's band, The Flying Machine, released several albums.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Ronaldo Lu\u00eds Naz\u00e1rio de Lima is the all-time leading scorer in the FIFA World Cup with 15 goals.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Marianne McAndrew played the role of Beth in the 1969 film \"Hello, Dolly!\".",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Emmett Skilton has performed at various music festivals and venues as a musician.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Elsa Pataky worked in television, appearing in the Spanish series \"F\u00edsica o Qu\u00edmica\" (2008-2009) and the American series \"Tidelands\" (2018).",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Kang Daniel is a South Korean singer, songwriter, and record producer.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Florencia Bertotti appeared in the telenovela \"Sos mi vida\".",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Jonathan Tucker was born on September 31, 1982.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Frederick Winslow Taylor's ideas emphasized the importance of standardizing tasks and procedures.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Jidenna Theodore Odunze's father, Oliver Odunze, is a retired professor.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: John Lee \"Son\" House developed a distinctive style that blended elements of Delta blues, gospel, and country music.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Paul O'Neill was born on November 24, 1971.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Vanessa Kirby gained recognition for her portrayal of Rosalind Pearson in the BBC drama \"Great Expectations\" in 2011.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Y.S. Jaganmohan Reddy's mother, Y.S. Vijayalakshmi, was a social worker and a member of the Indian National Congress.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Dacre Kay Montgomery's character, Billy, becomes a key character in Stranger Things' second season.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Regina Mart\u00ednez P\u00e9rez was murdered on April 28, 2012.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Kathryn Bridget Moynahan's full name is Kathryn Bridget Moynahan.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Y.S. Jaganmohan Reddy is the son of Y.S. Rajasekhara Reddy, a prominent politician and former Chief Minister of Andhra Pradesh.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Rakhi Sawant was involved in a public feud with fellow \"Bigg Boss\" contestant Shilpa Shinde.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Jonathan Tucker's performance in \"The Texas Chainsaw Massacre\" received positive reviews from critics.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Adil Rami made his debut for the French national team in 2010.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Maneka Gandhi has been a vocal advocate for animal rights.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Anthony Bourdain was a renowned chef, author, and television personality.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Daniel Dubois defeated Nathan Gorman.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: IU began her music career in 2008 at the age of 15.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Gilberto Silva helped Arsenal win the 2003-04 Premier League title, which was the \"Invincibles\" season.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: John Lee \"Son\" House grew up in a musical family.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Daniel Dubois won several national titles in the amateur boxing circuit.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Adil Rami spent two seasons with a club in Ligue 1.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Gilberto Silva provided analysis and insights on various TV networks and online platforms.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Paul O'Neill competed in the British GT Championship.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Ra Jong-yil has written several books on intelligence and national security.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Beenie Man is a Jamaican dancehall and reggae artist.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Egon Krenz became a member of the SED's highest decision-making body in 1983.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Glover Teixeira's winning streak was snapped by Jon Jones at UFC 172.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Mauro Emanuel Icardi won the Coupe de la Ligue with Paris Saint-Germain in the 2020-21 season.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Ram Gopal Varma directed \"Rakta Charitra\" in 2010.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Mitzi Gaynor has a star on the Hollywood Walk of Fame.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Mauro Emanuel Icardi made his debut for Paris Saint-Germain in August 2019.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Ji Sung is married to actress Lee Bo-young.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Rennie Fritchie, Baroness Fritchie, has served as a crossbench member of the House of Lords.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Shayne Neumann grew up in the town of Gatton.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Kalki Koechlin earned a Filmfare Award for Best Supporting Actress for her role in the 2007 film \"Dev.D.\"",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Tim Fischer is a former Australian politician.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: \"Kimagure Orange Road\" follows the story of a high school student and his relationships with two girls, Madoka Ayukawa and Kurumi Isokawa.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Alonso is a Spanish professional footballer.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Glover Teixeira defeated Anthony Smith via TKO in the first round at UFC on FOX 19.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Hibo Wardere is best known for Hibo Wardere's memoir \"Muzik: A Somali Woman's Story of Survival in the Ogaden and Somalia\".",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Hibo Wardere aims to raise awareness about the experiences of Somali women and girls through her writing and activism.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Robert Louis Stevenson published \"Dr. Jekyll and Mr. Hyde\" in 1886.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Shayne Neumann was re-elected at the 2019 federal election.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Maneka Gandhi is an Indian politician.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: George Cukor directed \"Adam's Rib\" (1949).",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Owen Wright turned pro as a surfer in 2009.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Adil Rami has earned over 40 caps for the French national team.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Kerser's debut album, \"The Flood\", was a commercial success.",
+        "output": "False"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: Roberto Clemente played his entire 18-year career in the Major Leagues with the Pittsburgh Pirates.",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: George Cukor directed \"Travels with My Aunt\" (1972).",
+        "output": "True"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, reply with 'True' or 'False'. Make sure that your response is exactly 'True' or 'False' without any extra commentary whatsoever.",
+        "input": "Claim: George Cukor's breakthrough as a feature film director came with the 1933 film \"What! No Beer?\".",
+        "output": "False"
+    }
+]

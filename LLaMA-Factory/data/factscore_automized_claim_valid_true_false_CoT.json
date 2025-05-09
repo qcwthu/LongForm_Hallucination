@@ -1,0 +1,697 @@
+[
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: The Living End released the album \"Roll On\" in 2000.",
+        "output": "True. According to Wikipedia, The Living End released the album 'Roll On' in November 2000 in Australia and New Zealand, and in March 2001 internationally."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Beenie Man's album \"Many More Moods\" included the hit singles \"Sim Simma\" and \"Girls Dem Sugar\".",
+        "output": "False. Beenie Man's album \\\"Many Moods of Moses\\\" included the hit single \\\"Sim Simma\\\" but not \\\"Girls Dem Sugar\\\". \\\"Girls Dem Sugar\\\" is actually a single from his album \\\"Art and Life\\\". Therefore, the statement is incorrect."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Jonathan Tucker is best known for his roles in \"Friday Night Lights,\" \"The Texas Chainsaw Massacre,\" and \"Kingdom.\"",
+        "output": "False. Jonathan Tucker is known for his roles in \\\"The Texas Chainsaw Massacre\\\" and \\\"Kingdom\\\". However, he is not known for his role in \\\"Friday Night Lights\\\". The main cast of \\\"Friday Night Lights\\\" includes Kyle Chandler, Connie Britton, Brad Leland, and others, but Jonathan Tucker is not among them."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Roselyn S\u00e1nchez is a Puerto Rican actress, model, and singer.",
+        "output": "True. Roselyn S\u00e1nchez was born in San Juan, Puerto Rico, and has had a successful career in acting, modeling, and singing. She has appeared in various films and television shows, including 'Rush Hour 2' and 'Devious Maids', and has released several music albums."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Darrius Heyward-Bey caught 140 passes for 1,610 yards and 4 touchdowns while playing for the Raiders.",
+        "output": "False. According to Pro-Football-Reference.com, Darrius Heyward-Bey played for the Raiders from 2009 to 2012. During that time, he caught 140 passes for 2,380 yards and 11 touchdowns. The statement is incorrect about the number of yards and touchdowns."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Regina Mart\u00ednez P\u00e9rez was a vocal critic of the Mexican government's handling of the drug trade and organized crime.",
+        "output": "True. Regina Mart\u00ednez P\u00e9rez was a Mexican journalist and veteran crime reporter for Proceso, a center-left Mexican news magazine known for its critical reporting of the social and political establishment. She was an outspoken critic of human rights violations, government corruption, abuse of authority, and for her in-depth coverage of the drug trafficking organizations that operate in Veracruz."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Reki Kawahara wrote the light novel series \"Sword Art Online\".",
+        "output": "True. I found evidence that Reki Kawahara wrote the light novel series 'Sword Art Online'. The source I used was Wikipedia, which is a reliable source of information. The Wikipedia page for 'Sword Art Online' lists Reki Kawahara as the author of the light novel series."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Quintus Sosius Senecio served as a legate in the Battle of Actium in 31 BC.",
+        "output": "False. According to historical records, Gaius Sosius, not Quintus Sosius Senecio, was a legate who fought on the side of Mark Antony in the Battle of Actium in 31 BC. [1]"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Egon Krenz became a member of the Socialist Unity Party of Germany's Central Committee in 1976.",
+        "output": "True. According to Wikipedia, Egon Krenz was a member of the Central Committee of the Socialist Unity Party of Germany from 1973 to 1989. This means that he was already a member in 1976."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Miguel D\u00edaz earned 31 saves for the Mets in 2017.",
+        "output": "False. Miguel D\u00edaz did not play for the Mets in 2017. He played for the Seattle Mariners in 2017. Edwin D\u00edaz, not Miguel D\u00edaz, is a pitcher for the New York Mets."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Andreas Kisser was born in Belo Horizonte, Brazil.",
+        "output": "False. According to Andreas Kisser's Wikipedia page, he was born in S\u00e3o Bernardo do Campo, a municipality in S\u00e3o Paulo, Brazil, not in Belo Horizonte."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: There are multiple individuals named Ravi Besant, and one of them is the CEO of one of the companies named Besant Technologies.",
+        "output": "False. I found that there is a company named Besant Technologies, but the CEO is Selva Manikandan, not Ravi Besant. I also found a trainer named Ravi who works for Besant Technologies, but he is not the CEO. I couldn't find any evidence of a person named Ravi Besant who is the CEO of a company named Besant Technologies."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Y.S. Jaganmohan Reddy was released from prison in 2015 after the Supreme Court acquitted Y.S. Jaganmohan Reddy of all charges.",
+        "output": "False. According to various sources, Y.S. Jaganmohan Reddy was arrested in 2011 and released on bail in 2013. He was not acquitted of all charges by the Supreme Court. In 2019, he became the Chief Minister of Andhra Pradesh."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Shashank Manohar resigned as President of the Board of Control for Cricket in India in 2017, citing differences with the Indian government.",
+        "output": "False. According to Wikipedia, Shashank Manohar served as the President of the Board of Control for Cricket in India from November 2015 to May 2016, and as the chairman of the International Cricket Council from November 2015 to March 2017. There is no evidence to suggest that he resigned in 2017 as President of the Board of Control for Cricket in India."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: The investigation into Regina Mart\u00ednez P\u00e9rez's murder was widely criticized for being slow and ineffective.",
+        "output": "True. The investigation into Regina Mart\u00ednez P\u00e9rez's murder was criticized by the Committee to Protect Journalists, Proceso magazine, and several journalists and press freedom organizations for irregularities and a lack of progress. The suspect's confession was retracted, and DNA and fingerprint samples did not match the suspect."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Robin and Taika Waititi were of M\u0101ori descent.",
+        "output": "False. According to Wikipedia, Taika Waititi's father was of Te Wh\u0101nau-\u0101-Apanui descent, which is a M\u0101ori iwi (tribe). His mother, Robin Cohen, was of Russian Jewish, Irish, and other European ethnicities, but not M\u0101ori. Therefore, only Taika Waititi was of M\u0101ori descent, not Robin."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: John Lee \"Son\" House was born in Lyon, Mississippi.",
+        "output": "False. According to multiple sources, including Britannica and AllMusic, John Lee \\\"Son\\\" House was born in Riverton, Mississippi, not Lyon. Lyon is not a city in Mississippi."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Miguel D\u00edaz has a fastball that has consistently been clocked in the mid-to-upper 90s.",
+        "output": "True. According to multiple sources, including Baseball America, Baseball Prospectus, and Reviewing the Brew, Miguel D\u00edaz's fastball has been clocked in the mid-to-upper 90s. For example, Reviewing the Brew states that 'MLB.com speaks of his above average fastball that he can bring in the mid to upper 90\u2019s as the key to his success.' Similarly, Baseball Prospectus notes that D\u00edaz's fastball features 'tailing action when in a groove on the pitch in the mid 90s, will elevate the pitch and straighten out when in the high 90s.'"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Errol Flynn went on to star in a string of hit films that Errol Flynn starred in, including \"The Charge of the Light Brigade\" (1936), \"The Adventures of Robin Hood\" (1938), and \"The Sea Hawk\" (1940).",
+        "output": "True. The statement lists three movies that Errol Flynn starred in. I found evidence that confirms Errol Flynn starred in these movies. 'The Charge of the Light Brigade' (1936), 'The Adventures of Robin Hood' (1938), and 'The Sea Hawk' (1940) are all movies that feature Errol Flynn as the main character."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Jos\u00e9 S\u00e1nchez del R\u00edo was born on March 20, 1913.",
+        "output": "False. According to Wikipedia, Jos\u00e9 S\u00e1nchez del R\u00edo was born on March 28, 1913, not March 20, 1913. This information contradicts the given statement."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Alonso has earned over 50 caps for the Spain national team.",
+        "output": "True. According to Wikipedia, Xabi Alonso has earned 114 caps for the Spain national team, which is more than 50. [2]"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Samantha Ruth Prabhu is married to actor Naga Chaitanya.",
+        "output": "False. I found multiple sources indicating that Samantha Ruth Prabhu and Naga Chaitanya are divorced. For example, in October 2021, they publicly announced their separation in a joint statement on social media [2]."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Shayne Neumann is a member of the Australian Labor Party.",
+        "output": "True. According to Wikipedia, Shayne Neumann is a member of the Australian Labor Party and has been elected to the Federal seat of Blair in 2007, 2010, 2013, 2016, 2019, and 2022. He has also held various shadow ministerial positions within the party."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Rin Iwanaga is a Japanese manga artist and illustrator.",
+        "output": "False. I found that Rin Iwanaga is actually a Japanese badminton player, not a manga artist or illustrator. I found this information on Wikipedia."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Tiffany Haddish has received numerous awards and nominations throughout her career as an actress, comedian, and author.",
+        "output": "True. Tiffany Haddish has received several awards and nominations for her work in film and television, including a Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series and a Grammy Award for Best Comedy Album. She has also been nominated for several other awards, including Critics' Choice Movie Awards, Detroit Film Critics Society Awards, and BET Awards."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Andreas Kisser wrote many of the heavy metal band Sepultura's most popular songs during his career with the band.",
+        "output": "True. Andreas Kisser joined Sepultura in 1987, and the band's most popular songs were written during his tenure. Some of the band's most popular songs, such as 'Roots Bloody Roots', 'Attitude', and 'Choke', were released on the album 'Roots', which was written by Max Cavalera and Andreas Kisser. Andreas Kisser also co-wrote songs on other successful albums, such as 'Chaos A.D.' and 'Arise'."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Chadwick Boseman played the role of James Brown in his 2014 film \"Get on Up.\"",
+        "output": "True. According to Wikipedia, Chadwick Boseman played the role of James Brown in the 2014 film 'Get on Up'."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Liam Payne's debut solo album, \"LP1\", featured the singles \"Strip That Down\" and \"All I Want (For Christmas)\".",
+        "output": "True. According to Wikipedia, Liam Payne's debut solo album \\\"LP1\\\" featured the singles \\\"Strip That Down\\\" and \\\"All I Want (For Christmas)\\\", which matches the statement."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Annika S\u00f6renstam won 42 Ladies European Tour events.",
+        "output": "False. According to Wikipedia, Annika S\u00f6renstam won 24 Ladies European Tour events, not 42. [1]"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Mauro Icardi represented Argentina at the 2015 Copa America.",
+        "output": "False. According to ESPN, Mauro Icardi was omitted from Argentina's squad for the 2016 Copa America Centenario due to a personal feud with teammate Maxi Lopez. There is no evidence to suggest that he played in the 2015 Copa America."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Darrius Heyward-Bey caught 60 passes for 854 yards and 5 touchdowns while playing for the Steelers.",
+        "output": "False. According to StatMuse, Darrius Heyward-Bey played 10 seasons for the Steelers, Raiders and Colts. He had 202 catches for 2,897 yards and scored 18 touchdowns. However, the stats provided in the statement are not accurate for his time with the Steelers. I couldn't find the exact stats for his time with the Steelers, but the overall stats show that the statement is incorrect."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: The Animal Welfare Board of India, which was founded by Maneka Gandhi in 1984, is a statutory body that works to protect and promote animal welfare in India.",
+        "output": "False. The Animal Welfare Board of India was established in 1962 under Section 4 of the Prevention of Cruelty to Animals Act, 1960. It is a statutory body that works to protect and promote animal welfare in India. Maneka Gandhi is an animal rights activist and the founder of People for Animals, but she did not found the Animal Welfare Board of India."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Oliver Letwin graduated with a degree in Philosophy, Politics, and Economics.",
+        "output": "False. Oliver Letwin attended Trinity College, Cambridge, where he received a double first in history, not Philosophy, Politics, and Economics. [1]"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Errol Flynn died on October 14, 1959, at the age of 50, from a heart attack while sailing his yacht, the \"Zaca,\" off the coast of California.",
+        "output": "False. According to multiple sources, including IMDb and Britannica, Errol Flynn died on October 14, 1959, at the age of 50, in Vancouver, Canada, not while sailing his yacht off the coast of California. He died from a heart attack, but not in the circumstances described in the statement."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Ronaldo Lu\u00eds Naz\u00e1rio de Lima won the FIFA Confederations Cup twice (1997 and 2005) with Brazil.",
+        "output": "False. According to the official FIFA website, Brazil won the FIFA Confederations Cup in 1997 and 2009, but not in 2005. Ronaldo Lu\u00eds Naz\u00e1rio de Lima was a member of the Brazilian team that won the tournament in 1997, but he did not participate in the 2009 edition."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Takeo Miki continued to serve in the Japanese Diet until his death.",
+        "output": "True. According to Wikipedia, Takeo Miki was a member of the House of Representatives from March 31, 1937, until November 14, 1988, which is the day he died. This information indicates that he continued to serve in the Japanese Diet until his death."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Vincenzo Tusa oversaw excavations and restoration projects in Agrigento, including the Valley of the Temples.",
+        "output": "True. I found a book written by Vincenzo Tusa called 'Anastylosis ad Agrigento Tempio di Eracle e Selinunte Tempio C' published in 1975. Anastylosis is a term used in archaeology to describe the process of reassembling a monument from its original parts. This suggests that Vincenzo Tusa was involved in restoration projects in Agrigento, including the Valley of the Temples."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: George Cukor directed \"Love and Pain and the Whole Damn Thing\" (1973).",
+        "output": "False. According to Wikipedia, the director of the movie \\\"Love and Pain and the Whole Damn Thing\\\" (1973) was Alan J. Pakula, not George Cukor."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Quintus Sosius Senecio received a traditional Roman education.",
+        "output": "True. While there is no direct evidence that Quintus Sosius Senecio received a traditional Roman education, his cursus honorum (the sequence of public offices held by a Roman citizen) suggests that he followed the typical path of a Roman senator, which would have included a traditional Roman education. The cursus honorum is mentioned in an inscription, which provides evidence of his career progression."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Lauren London has appeared in the film \"Little.\"",
+        "output": "False. I couldn't find any information or credible sources suggesting that Lauren London has appeared in the film \\\"Little.\\\" The film \\\"Little\\\" was released in 2019 and starred Regina Hall, Issa Rae, and Marsai Martin. Lauren London's filmography does not include \\\"Little.\\"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Andrew Shue gained his breakthrough role in 1992 when Andrew Shue was cast as Billy Campbell on \"Melrose Place.\"",
+        "output": "True. According to Wikipedia, Andrew Shue was cast as Billy Campbell on the television series Melrose Place in 1992. This information supports the statement."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Frederick Winslow Taylor was the son of a wealthy family.",
+        "output": "False. According to the provided information, Frederick Winslow Taylor was the son of a lawyer, not a wealthy family. While being the son of a lawyer may imply a certain level of affluence, it does not necessarily mean that the family was wealthy."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Vincenzo Tusa worked on the Valley of the Temples in Sicily, Italy, a UNESCO World Heritage Site.",
+        "output": "True. Vincenzo Tusa is an Italian archaeologist who has worked on various archaeological sites in Sicily, including the Valley of the Temples in Agrigento. He has been the director of the archaeological park of the Valley of the Temples since 2019."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Kerser is from Campbelltown, New South Wales.",
+        "output": "True. According to Wikipedia, Kerser, whose real name is Scott Froml, was born in the vicinity of Campbelltown, New South Wales. This information is provided in the 'Biography' section of his Wikipedia page."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Craig Morton served as the Cowboys' starting quarterback for most of Craig Morton's time with the team.",
+        "output": "True. Craig Morton played for the Dallas Cowboys from 1965 to 1974. During his time with the team, he shared quarterback duties with Roger Staubach. Morton started 80 games for the Cowboys, while Staubach started 53 games during the same period. Therefore, Morton was the starting quarterback for most of his time with the Cowboys."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Sian Massey-Ellis has been officiating in the top divisions of English football since 2001.",
+        "output": "False. According to Wikipedia, Sian Massey-Ellis turned professional in 2010 and was appointed to the FIFA list of women assistant referees in 2009. There is no evidence to suggest she was officiating in the top divisions of English football in 2001."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: James B. Donovan became involved in international law in the 1950s.",
+        "output": "True. According to Wikipedia, James B. Donovan defended the Soviet spy Rudolf Abel in 1957, which indicates his involvement in international law during the 1950s."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Samantha Ruth Prabhu's breakthrough role came in 2015 with the film \"A Aa.\"",
+        "output": "False. Samantha Ruth Prabhu's breakthrough role came in 2010 with the film \\\"Ye Maaya Chesave\\\". She had her first lead role in this film and it earned her the Filmfare Award for Best Female Debut \u2013 South and a Nandi Award. She had already established herself as a prominent actress in the Telugu and Tamil film industries before the release of \\\"A Aa\\\" in 2016."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Igor Cavalera is the drummer of Sepultura.",
+        "output": "False. Igor Cavalera was the drummer of Sepultura, but he left the band in 2006. He is currently a member of the band Soulwax and has also played with other bands such as Cavalera Conspiracy and Nailbomb. [1]"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Kim Burrell is an American gospel singer, songwriter, and minister.",
+        "output": "True. Kim Burrell is widely recognized as a gospel singer, songwriter, and minister. She has released several gospel albums and has been involved in various religious and musical endeavors throughout her career."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Chaim Malinowitz studied in the yeshivas of Poland and later in the United States.",
+        "output": "False. The provided text does not mention Chaim Malinowitz studying in the yeshivas of Poland. It mentions that his father, Rabbi Avrohom Aharon Malinowitz, was a student of Aharon Kotler in Kletsk, Poland. However, it does mention that Chaim Malinowitz studied in the United States, at the Talmudical Yeshiva of Philadelphia and Yeshivas Iyun HaTalmud in Monsey, New York."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Owen Wright has competed in the Billabong Pipe Masters.",
+        "output": "False. According to the text from [2], Mikey Wright took the place of his older brother Owen Wright in the Billabong Pipe Masters. This implies that Owen Wright was originally supposed to compete but was replaced by his brother. Therefore, Owen Wright has not competed in the Billabong Pipe Masters."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Kalki Koechlin starred in the 2011 film \"Zindagi Na Milegi Dobara.\"",
+        "output": "False. According to Wikipedia, Kalki Koechlin did not star in the 2011 film \\\"Zindagi Na Milegi Dobara.\\\" The film was released in 2011, but Kalki Koechlin's filmography does not include this title. The film actually starred Hrithik Roshan, Abhay Deol, Farhan Akhtar, Katrina Kaif, and Kalki Koechlin was not involved in the project."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Roselyn S\u00e1nchez starred in the romantic comedy \"Act of Valor\".",
+        "output": "False. According to Wikipedia, Roselyn S\u00e1nchez starred in the action film 'Act of Valor' (2012), but it is not classified as a romantic comedy. Instead, it is an action film that features active-duty U.S. Navy SEALs."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Sian Massey-Ellis is a British assistant referee in English football.",
+        "output": "True. According to Wikipedia, Sian Massey-Ellis is an English football match official who generally officiates in the role of an assistant referee in the Premier League and the Football League. She has also been appointed to matches in the Football League Trophy, UEFA Women's Champions League, FIFA Women's World Cup qualification rounds, the FIFA Women's World Cup, and the UEFA Europa League."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Dominic King developed a passion for football (soccer) from an early age.",
+        "output": "False. I couldn't find any information that suggests Dominic King was involved in football (soccer) at any point in his life. According to Wikipedia, Dominic King is a British racewalker who has competed in several international competitions, including the Olympics and Commonwealth Games."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: M\u00f6tley Cr\u00fce's music was a fusion of heavy metal, hard rock, and glam metal.",
+        "output": "True. M\u00f6tley Cr\u00fce is widely regarded as one of the most influential and iconic bands in the glam metal genre. Their music often featured heavy metal and hard rock elements, and they are often credited with helping to define the sound of the glam metal movement of the 1980s. Sources such as AllMusic, Rolling Stone, and Ultimate Classic Rock all describe M\u00f6tley Cr\u00fce's music as a fusion of heavy metal, hard rock, and glam metal."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Gabriela Sabatini defeated Steffi Graf in the semifinals of the 1990 US Open.",
+        "output": "False. According to the Wikipedia page for the 1990 US Open \u2013 Women's singles, Gabriela Sabatini defeated Steffi Graf in the final, not the semifinals. The semifinal match was between Sabatini and Mary Joe Fern\u00e1ndez, and Graf played against Arantxa S\u00e1nchez Vicario."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Dominic King was born on August 24, 1981.",
+        "output": "False. I found a source that states Dominic King was born on May 30, 1983, not August 24, 1981. [3]"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Chadwick Boseman was a devoted advocate for social justice.",
+        "output": "True. Chadwick Boseman was an American actor known for his portrayal of iconic African American figures such as Jackie Robinson, James Brown, and Thurgood Marshall. He also starred in the movie Black Panther, which was a cultural phenomenon and a celebration of African culture and excellence. Through his work, Boseman sought to challenge stereotypes and promote greater understanding and representation of African Americans in the media. He was also a recipient of the NAACP Image Award for Outstanding Actor in a Motion Picture, which further highlights his commitment to social justice."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Mar\u00eda Elena Medina-Mora Icaza is the Director of the National Institute of Psychiatry Ram\u00f3n de la Fuente Mu\u00f1iz in Mexico City, Mexico.",
+        "output": "False. According to the latest information available, Mar\u00eda Elena Medina-Mora Icaza was the director of the National Institute of Psychiatry Ramon de la Fuente Mu\u00f1iz until 2018. She was then promoted to the coordinator position. Therefore, she is not the current director of the institute."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Ji Sung played the role of Ta-hwan in the 2013-2014 historical drama \"Empress Ki\".",
+        "output": "False. According to the Wikipedia page for the TV series 'Empress Ki', the role of Ta-hwan was played by Ji Chang-wook, not Ji Sung."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Kyu Sakamoto died due to complications from stomach cancer.",
+        "output": "False. Kyu Sakamoto died in the crash of Japan Air Lines Flight 123 on August 12, 1985, along with 519 others on board. This information is available on Wikipedia."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Errol Flynn was married three times.",
+        "output": "True. According to various sources, including Wikipedia and IMDb, Errol Flynn was married three times: to Lili Damita (1935-1942), Nora Eddington (1943-1948), and Patrice Wymore (1950-1959)."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Manoel Francisco dos Santos earned 50 caps for the Brazilian national team.",
+        "output": "False. According to Wikipedia, Manoel Francisco dos Santos, also known as Garrincha, played for the Brazilian national team from 1953 to 1966 and earned 60 caps, scoring 49 goals. Therefore, the statement that he earned 50 caps is incorrect."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Mitzi Gaynor's performance in the film adaptation of \"South Pacific\" earned her a Golden Globe nomination.",
+        "output": "True. Mitzi Gaynor's performance in the film adaptation of \\\"South Pacific\\\" earned her a Golden Globe nomination for Best Actress in a Motion Picture - Musical or Comedy in 1959. This information can be found on various online sources, including IMDb and Golden Globe Awards' official website."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Ra Jong-yil was born in 1954.",
+        "output": "False. According to Wikipedia, Ra Jong-yil was born in 1940, not 1954. This information is also available on Wikidata and Clare Hall."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Quintus Sosius Senecio was a strong supporter of Julius Caesar.",
+        "output": "False. Quintus Sosius Senecio lived in the 1st century AD, while Julius Caesar died in 44 BC. This means that Quintus Sosius Senecio could not have been a strong supporter of Julius Caesar, as they lived in different times."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Julia Faye starred in the film \"The Unholy Three\" (1930).",
+        "output": "False. I found the cast list for the film \\\"The Unholy Three\\\" (1930) and Julia Faye is not listed. The cast includes Lon Chaney, Lila Lee, Elliott Nugent, Harry Earles, and Ivan Linow."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Kalki Koechlin has been involved with charitable organizations that support women's rights and environmental issues.",
+        "output": "True. Kalki Koechlin has been involved in various charitable causes, including women's rights and environmental issues. She has been a vocal advocate for gender equality and has supported organizations working towards women's empowerment. Additionally, she has been involved in environmental initiatives, such as promoting sustainable living and reducing plastic waste. Sources: [1] [2] [3]"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Ronaldo Lu\u00eds Naz\u00e1rio de Lima was born on September 18, 1976, in Rio de Janeiro, Brazil.",
+        "output": "True. According to Britannica, Ronaldo was born in Itaguai, Rio de Janeiro on 18 September 1976, but his birth certificate was only issued four days later. This means that Ronaldo was indeed born in Rio de Janeiro, but the exact date is disputed."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Saul \"Canelo\" \u00c1lvarez is a four-time world champion.",
+        "output": "True. According to Wikipedia, Saul \\\"Canelo\\\" \u00c1lvarez has held multiple world championships in four weight classes, from light middleweight to light heavyweight, including unified titles in three of those weight classes and lineal titles in two. This information supports the statement that he is a four-time world champion."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Florencia Bertotti made her screen debut in the 2004 telenovela \"Padre Coraje\".",
+        "output": "False. Florencia Bertotti did not appear in the 2004 telenovela 'Padre Coraje'. According to her profile on IMDb, her first role was in the TV series 'Inconquistable Coraz\u00f3n' in 1994, when she was 14 years old."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: George Cukor was versatile in directing a wide range of genres.",
+        "output": "True. George Cukor directed films in various genres, including comedies (e.g., \\\"The Philadelphia Story\\\"), literary adaptations (e.g., \\\"David Copperfield\\\"), dramas (e.g., \\\"Gaslight\\\"), and musicals (e.g., \\\"My Fair Lady\\\"). This range of genres demonstrates his versatility as a director."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Y.S. Jaganmohan Reddy was sworn in as the Chief Minister of Andhra Pradesh, India on May 30, 2019.",
+        "output": "True. According to Wikipedia, Y.S. Jaganmohan Reddy was sworn in as the Chief Minister of Andhra Pradesh, India on May 30, 2019. This information is also consistent with other sources."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Mar\u00eda Elena Medina-Mora Icaza was born in 1949 in Mexico City.",
+        "output": "False. According to Wikipedia, Mar\u00eda Elena Medina-Mora Icaza was born on October 3, 1951, in Mexico City. This information contradicts the statement that she was born in 1949."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Maneka Gandhi has been serving as a member of the Rajya Sabha since 2014.",
+        "output": "False. According to Wikipedia, Maneka Gandhi was a member of the Lok Sabha from 2014 to 2019, not the Rajya Sabha. She has never been a member of the Rajya Sabha."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Kyra Sedgwick's performance on the TNT drama series \"The Closer\" earned her numerous award nominations.",
+        "output": "True. Kyra Sedgwick's performance on the TNT drama series \\\"The Closer\\\" earned her numerous award nominations, including a Golden Globe Award nomination for Best Actress in a Television Series - Drama and an Emmy Award nomination for Outstanding Lead Actress in a Drama Series."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Ram Gopal Varma directed \"Antham\" in 1992.",
+        "output": "True. I found a source that confirms Ram Gopal Varma directed the movie 'Antham' in 1992. The source is Wikipedia, which is a reliable online encyclopedia."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Andrew Shue is the brother of actor Elisabeth Shue, who is known for her roles in films like \"Leaving Las Vegas\" and \"Deconstructing Harry.\"",
+        "output": "True. According to Nicki Swift, Elisabeth Shue's younger brother Andrew Shue is also an actor, known for his role as Billy Campbell on the prime time soap opera Melrose Place. This information supports the statement."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: James Taylor's band, The Flying Machine, released several albums.",
+        "output": "False. According to Wikipedia, James Taylor and the Original Flying Machine released an archival album in 1971, which was recorded in 1966. There is no evidence of the band releasing 'several albums'."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Ronaldo Lu\u00eds Naz\u00e1rio de Lima is the all-time leading scorer in the FIFA World Cup with 15 goals.",
+        "output": "False. According to FIFA's official website, Ronaldo Lu\u00eds Naz\u00e1rio de Lima has scored 15 goals in the FIFA World Cup, but Miroslav Klose has scored 16 goals, making him the all-time leading scorer in the FIFA World Cup."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Marianne McAndrew played the role of Beth in the 1969 film \"Hello, Dolly!\".",
+        "output": "False. I've checked the cast list for the 1969 film 'Hello, Dolly!' on various reliable sources, including IMDb and Wikipedia. While Marianne McAndrew was indeed in the film, she played the role of Irene Malloy, not Beth."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Emmett Skilton has performed at various music festivals and venues as a musician.",
+        "output": "False. I couldn't find any information that suggests Emmett Skilton has performed at music festivals or venues as a musician. Emmett Skilton is an actor and director, and his work is primarily in the film and television industry."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Elsa Pataky worked in television, appearing in the Spanish series \"F\u00edsica o Qu\u00edmica\" (2008-2009) and the American series \"Tidelands\" (2018).",
+        "output": "False. Elsa Pataky's filmography on her Wikipedia page lists her as appearing in the Spanish series \\\"F\u00edsica o Qu\u00edmica\\\" from 2008-2009 and the Australian series \\\"Tidelands\\\" in 2018, not American."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Kang Daniel is a South Korean singer, songwriter, and record producer.",
+        "output": "True. Kang Daniel is a South Korean singer, songwriter, and record producer, as stated in his Wikipedia page. He rose to fame after winning the second season of the reality competition series Produce 101 and later became a member of the boy group Wanna One. He has since pursued a successful solo career, releasing several albums and singles, and has also ventured into acting and television hosting."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Florencia Bertotti appeared in the telenovela \"Sos mi vida\".",
+        "output": "False. Florencia Bertotti did not appear in the telenovela \\\"Sos mi vida\\\". The telenovela \\\"Sos mi vida\\\" starred Natalia Oreiro and Facundo Arana. I couldn't find any information that suggests Florencia Bertotti was involved in the project."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Jonathan Tucker was born on September 31, 1982.",
+        "output": "False. Jonathan Tucker was born on May 31, 1982, according to Wikipedia. This contradicts the statement that he was born on September 31, 1982."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Frederick Winslow Taylor's ideas emphasized the importance of standardizing tasks and procedures.",
+        "output": "True. Frederick Winslow Taylor is known for his work in scientific management, which emphasizes the importance of standardizing tasks and procedures. His book, \\\"The Principles of Scientific Management,\\\" published in 1911, outlines his ideas on how to improve industrial efficiency by standardizing tasks and procedures. Taylor believed that by breaking down tasks into smaller, standardized parts, workers could be trained to perform them more efficiently, and productivity could be increased."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Jidenna Theodore Odunze's father, Oliver Odunze, is a retired professor.",
+        "output": "False. Jidenna's father's name is Oliver Mobisson, not Oliver Odunze. According to Wikipedia, Oliver Mobisson was a professor of computer science at Enugu State University. He passed away in 2010."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: John Lee \"Son\" House developed a distinctive style that blended elements of Delta blues, gospel, and country music.",
+        "output": "True. According to multiple sources, Son House was a folk-blues musician who was part of the delta blues movement. His background as a preacher heavily influenced his work, and he was known for his unique style that blended elements of delta blues, gospel, and country music. For example, his song 'Downhearted Blues' showcases his unique guitar work and wavy voice, which was influenced by his gospel background."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Paul O'Neill was born on November 24, 1971.",
+        "output": "False. I found a reliable source (Wikipedia) that states Paul O'Neill was born on February 25, 1963, which contradicts the given birthdate of November 24, 1971."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Vanessa Kirby gained recognition for her portrayal of Rosalind Pearson in the BBC drama \"Great Expectations\" in 2011.",
+        "output": "False. Vanessa Kirby played the role of Estella in the 2011 BBC drama \\\"Great Expectations\\\", not Rosalind Pearson. There is no evidence of a character named Rosalind Pearson in the 2011 BBC drama \\\"Great Expectations\\\". [1]"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Y.S. Jaganmohan Reddy's mother, Y.S. Vijayalakshmi, was a social worker and a member of the Indian National Congress.",
+        "output": "True. Y.S. Vijayalakshmi was a politician and the former MLA of Pulivendula constituency in Kadapa district. She was the wife of Y.S. Rajasekhara Reddy, the former Chief Minister of Andhra Pradesh. She was a member of the Indian National Congress and later joined the YSR Congress Party founded by her son Y.S. Jaganmohan Reddy."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Dacre Kay Montgomery's character, Billy, becomes a key character in Stranger Things' second season.",
+        "output": "False. Dacre Montgomery's character, Billy Hargrove, is introduced in the third season of Stranger Things, not the second. He becomes a key character in the show's third and fourth seasons."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Regina Mart\u00ednez P\u00e9rez was murdered on April 28, 2012.",
+        "output": "True. According to Wikipedia, Regina Mart\u00ednez P\u00e9rez was a Mexican journalist who was murdered on April 28, 2012, at the age of 48. The article provides details about her life and career, as well as the circumstances surrounding her death."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Kathryn Bridget Moynahan's full name is Kathryn Bridget Moynahan.",
+        "output": "True. According to Wikipedia, Bridget Moynahan's full name is indeed Kathryn Bridget Moynahan."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Y.S. Jaganmohan Reddy is the son of Y.S. Rajasekhara Reddy, a prominent politician and former Chief Minister of Andhra Pradesh.",
+        "output": "True. According to Wikipedia, Y.S. Jaganmohan Reddy is indeed the son of Y.S. Rajasekhara Reddy, a former Chief Minister of Andhra Pradesh. This information is also widely reported in other reputable sources."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Rakhi Sawant was involved in a public feud with fellow \"Bigg Boss\" contestant Shilpa Shinde.",
+        "output": "True. I found multiple sources that confirm Rakhi Sawant and Shilpa Shinde had a public feud during their time on the reality TV show 'Bigg Boss'. The sources include news articles and videos that document their arguments and confrontations on the show."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Jonathan Tucker's performance in \"The Texas Chainsaw Massacre\" received positive reviews from critics.",
+        "output": "False. Upon reviewing the reviews for the 2003 film 'The Texas Chainsaw Massacre', I found that the film received mostly negative reviews from critics. While some reviews did mention Jonathan Tucker's performance, none of them were overwhelmingly positive. Therefore, I cannot find evidence to support the statement."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Adil Rami made his debut for the French national team in 2010.",
+        "output": "True. According to Wikipedia, Adil Rami made his senior debut on 11 August 2010 in a friendly match against Norway. This information supports the statement."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Maneka Gandhi has been a vocal advocate for animal rights.",
+        "output": "True. According to Wikipedia, Maneka Gandhi is an Indian politician, animal rights activist and environmentalist. She has also authored books in the areas of animal rights. This suggests that she has been a vocal advocate for animal rights."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Anthony Bourdain was a renowned chef, author, and television personality.",
+        "output": "True. Anthony Bourdain was a celebrated chef, author, and television personality. He was the host of several food and travel documentary shows, including 'Parts Unknown' and 'No Reservations.' He also wrote several bestselling books, including 'Kitchen Confidential.' Bourdain was known for his unique storytelling style and his ability to connect with people from different cultures and backgrounds."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Daniel Dubois defeated Nathan Gorman.",
+        "output": "True. According to the article by Jake Donovan, Daniel Dubois won the fight against Nathan Gorman with a 5th round knockout. The article states: 'The unbeaten heavyweight made a huge splash in the division, scoring a 5th round knockout of countryman Nathan Gorman in their British title fight Saturday evening at O2 Arena in London, England.'"
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: IU began her music career in 2008 at the age of 15.",
+        "output": "True. According to Wikipedia, IU was born on May 16, 1993, and signed with LOEN Entertainment in 2007 as a trainee. She debuted as a singer at the age of fifteen with her first EP 'Lost and Found' in 2008."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Gilberto Silva helped Arsenal win the 2003-04 Premier League title, which was the \"Invincibles\" season.",
+        "output": "True. Gilberto Silva was a member of the Arsenal team that won the 2003-04 Premier League title without losing a single game, earning them the nickname 'The Invincibles'. This information is widely reported and acknowledged by reputable sources."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: John Lee \"Son\" House grew up in a musical family.",
+        "output": "False. According to multiple sources, John Lee \\\"Son\\\" House was born to a family of sharecroppers and did not have a musical upbringing. He was exposed to music through the church and later became a blues singer and guitarist. Therefore, the statement is false."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Daniel Dubois won several national titles in the amateur boxing circuit.",
+        "output": "True. According to Wikipedia, Daniel Dubois was a five-time national junior titlist and British champion in the amateur boxing circuit. This information supports the statement."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Adil Rami spent two seasons with a club in Ligue 1.",
+        "output": "False. According to Wikipedia, Adil Rami played for Lille in Ligue 1 from 2006 to 2011, which is more than two seasons. Therefore, the statement is false."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Gilberto Silva provided analysis and insights on various TV networks and online platforms.",
+        "output": "True. Gilberto Silva is a former Brazilian professional footballer who played as a defensive midfielder. He is currently a football pundit and commentator, providing analysis and insights on various TV networks and online platforms such as BBC, Sky Sports, and ESPN."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Paul O'Neill competed in the British GT Championship.",
+        "output": "True. I found evidence that Paul O'Neill competed in the British GT Championship. The evidence is from Wikipedia, which states that Paul O'Neill competed in the British GT\u2013 GT4 and British GT\u2013 GT3 [2]."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Ra Jong-yil has written several books on intelligence and national security.",
+        "output": "True. I found evidence that Ra Jong-yil has written at least one book on national security, titled 'Inside North Korea's Theocracy: The Rise and Sudden Fall of Jang Song-thaek'. While I couldn't find a comprehensive list of his works, this suggests that he has written at least one book on the topic."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Beenie Man is a Jamaican dancehall and reggae artist.",
+        "output": "True. Beenie Man is a well-known Jamaican artist who has been active in the music industry since 1979. He is widely recognized as a dancehall and reggae artist, and has released numerous albums and singles in these genres. Sources such as Wikipedia and other online music platforms confirm his genre and nationality."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Egon Krenz became a member of the SED's highest decision-making body in 1983.",
+        "output": "True. According to Wikipedia, Egon Krenz was a candidate member of the Politburo of the Central Committee from 1976 to 1983 and a full member from 1983 to 1989. Therefore, the statement is true."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Glover Teixeira's winning streak was snapped by Jon Jones at UFC 172.",
+        "output": "True. According to the UFC 172 results, Jon Jones defeated Glover Teixeira via unanimous decision, which means Teixeira's winning streak was indeed snapped by Jones at UFC 172."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Mauro Emanuel Icardi won the Coupe de la Ligue with Paris Saint-Germain in the 2020-21 season.",
+        "output": "False. According to Wikipedia, Paris Saint-Germain won the Coupe de France in the 2020-21 season, not the Coupe de la Ligue. The Coupe de la Ligue was abolished in 2020. Mauro Icardi was a player for Paris Saint-Germain during the 2020-21 season."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Ram Gopal Varma directed \"Rakta Charitra\" in 2010.",
+        "output": "True. According to Wikipedia, Ram Gopal Varma directed the film 'Rakta Charitra' in 2010. The film was released on October 22, 2010."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Mitzi Gaynor has a star on the Hollywood Walk of Fame.",
+        "output": "True. Mitzi Gaynor received a star on the Hollywood Walk of Fame in 1960. The star is located at 6426 Hollywood Boulevard and was dedicated on February 8, 1960."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Mauro Emanuel Icardi made his debut for Paris Saint-Germain in August 2019.",
+        "output": "False. According to multiple sources, Mauro Icardi joined Paris Saint-Germain on loan in September 2019, not in August. He made his debut for the club on September 14, 2019, in a Ligue 1 match against Strasbourg."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Ji Sung is married to actress Lee Bo-young.",
+        "output": "True. According to various sources, Ji Sung and Lee Bo-young got married in 2013 and have two children together. They are still married and have been spotted together at various events."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Rennie Fritchie, Baroness Fritchie, has served as a crossbench member of the House of Lords.",
+        "output": "True. According to Wikipedia, Rennie Fritchie, Baroness Fritchie, was a crossbencher in the House of Lords. The source states that she was made a life peer as Baroness Fritchie, of Gloucester in the County of Gloucestershire, and she sat as a crossbencher in the House of Lords."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Shayne Neumann grew up in the town of Gatton.",
+        "output": "False. According to Wikipedia, Shayne Neumann was born in Ipswich, Queensland, and attended Ipswich East State Primary School and Bundamba State Secondary College. There is no mention of Gatton in his early life or biography."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Kalki Koechlin earned a Filmfare Award for Best Supporting Actress for her role in the 2007 film \"Dev.D.\"",
+        "output": "False. According to the list of awards and nominations received by Kalki Koechlin, she won the Filmfare Award for Best Supporting Actress for her role in the 2009 film 'Dev.D.' [1]."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Tim Fischer is a former Australian politician.",
+        "output": "True. According to Wikipedia, Tim Fischer was an Australian politician and diplomat who served as leader of the National Party from 1990 to 1999 and held various other political offices. He passed away in 2019."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: \"Kimagure Orange Road\" follows the story of a high school student and his relationships with two girls, Madoka Ayukawa and Kurumi Isokawa.",
+        "output": "False. The statement is incorrect. The manga and anime series \\\"Kimagure Orange Road\\\" actually follows the story of a high school student named Kyosuke Kasuga and his relationships with two girls, Madoka Ayukawa and Hikaru Hiyama, not Kurumi Isokawa. I found this information on Wikipedia."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Alonso is a Spanish professional footballer.",
+        "output": "True. Xabi Alonso is a former Spanish professional footballer who played as a central midfielder for several clubs, including Real Madrid, Liverpool, and Bayern Munich. He also represented the Spain national team and won several titles, including the 2010 FIFA World Cup and two UEFA European Championships."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Glover Teixeira defeated Anthony Smith via TKO in the first round at UFC on FOX 19.",
+        "output": "False. Glover Teixeira and Anthony Smith did fight at UFC Fight Night 171, but it was not at UFC on FOX 19. Teixeira won the fight via TKO in the fifth round, not the first round. UFC on FOX 19 took place on April 16, 2016, and Glover Teixeira was not involved in that event."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Hibo Wardere is best known for Hibo Wardere's memoir \"Muzik: A Somali Woman's Story of Survival in the Ogaden and Somalia\".",
+        "output": "False. I couldn't find any information about Hibo Wardere's memoir called 'Muzik: A Somali Woman's Story of Survival in the Ogaden and Somalia'. However, I found that Hibo Wardere has written a memoir called 'Cut: One Woman's Fight Against FGM in Britain Today' which was published in 2016."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Hibo Wardere aims to raise awareness about the experiences of Somali women and girls through her writing and activism.",
+        "output": "True. Hibo Wardere is a Somali-born campaigner against female genital mutilation (FGM), author, and public speaker. She has written a memoir, 'Cut', and has been featured in numerous publications, including the BBC, the Guardian, and the Telegraph, where she shares her experiences and advocates for the rights of Somali women and girls. Her work as a mediator and FGM educator also supports this statement."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Robert Louis Stevenson published \"Dr. Jekyll and Mr. Hyde\" in 1886.",
+        "output": "True. According to Wikipedia, Robert Louis Stevenson published 'Dr. Jekyll and Mr. Hyde' in 1886. This information is also available on other reliable sources."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Shayne Neumann was re-elected at the 2019 federal election.",
+        "output": "True. According to Wikipedia, Shayne Neumann was re-elected at the 2019 federal election and also at the 2022 federal election. The source is considered reliable as it is a well-known online encyclopedia with a high level of accuracy."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Maneka Gandhi is an Indian politician.",
+        "output": "True. I found multiple sources confirming that Maneka Gandhi is an Indian politician. For example, according to Wikipedia, she was a member of the Lok Sabha, the lower house of the Indian parliament, and a member of the Bharatiya Janata Party (BJP)."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: George Cukor directed \"Adam's Rib\" (1949).",
+        "output": "True. According to IMDb, George Cukor directed the movie \\\"Adam's Rib\\\" in 1949, starring Katharine Hepburn and Spencer Tracy. This information is also confirmed by other reliable sources."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Owen Wright turned pro as a surfer in 2009.",
+        "output": "True. According to the surfer's bio, Owen Wright qualified for the CT in 2009 and finished his debut season of 2010 ranked No. 7, which earned him Rookie of the Year. This indicates that he turned pro in 2009."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Adil Rami has earned over 40 caps for the French national team.",
+        "output": "False. According to Wikipedia, Adil Rami has played for the French national team, but the exact number of caps is not specified. However, according to Transfermarkt, Adil Rami has earned 35 caps for the French national team, which is less than 40."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Kerser's debut album, \"The Flood\", was a commercial success.",
+        "output": "False. I couldn't find any information about Kerser's debut album being 'The Flood'. According to [1], Kerser's debut album is actually called 'The Nebulizer'."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: Roberto Clemente played his entire 18-year career in the Major Leagues with the Pittsburgh Pirates.",
+        "output": "True. According to Wikipedia, Roberto Clemente played his entire 18-year career in the Major Leagues with the Pittsburgh Pirates. He made his MLB debut on April 17, 1955, for the Pittsburgh Pirates and his last MLB appearance was on October 3, 1972, for the Pittsburgh Pirates."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: George Cukor directed \"Travels with My Aunt\" (1972).",
+        "output": "True. According to Wikipedia, George Cukor directed the 1972 film 'Travels with My Aunt'."
+    },
+    {
+        "instruction": "Your task is to determine the correctness of the given claim. When presented with a claim, first reply with 'True' or 'False' and then explain the solution. Make sure that your response starts with 'True' or 'False'.",
+        "input": "Claim: George Cukor's breakthrough as a feature film director came with the 1933 film \"What! No Beer?\".",
+        "output": "False. According to Wikipedia, George Cukor's breakthrough as a feature film director came with the 1933 film \\\"A Bill of Divorcement\\\", not \\\"What! No Beer?\\\". \\\"What! No Beer?\\\" is not mentioned in the list of his notable works."
+    }
+]
